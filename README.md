@@ -29,7 +29,7 @@ This project implements a custom 4-bit processor using Verilog HDL.
 
 ## Architecture
 
-![Architecture](docs/architecture.png)
+![Architecture](docs/ARCHITECTURE.png)
 
 ## RTL Design
 
